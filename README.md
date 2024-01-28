@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-- 🔭 Aprendiz Fullstack com Lua, NodeJS & Js.
+- 🔭 Aprendiz Fullstack com Lua, Node & Js.
 - 📫 [Entre em contato comigo pelo discord](https://discord.gg/qTVUAFCECE)
 
 <div align="center">
