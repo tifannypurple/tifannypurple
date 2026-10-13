@@ -1,15 +1,11 @@
 <!-- Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=200&section=header&text=William%20Silva&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Fullstack%20em%20evolução%20🚀&descAlignY=58&descSize=18"/>
 
-<div align="center">
+<h3 align="center">
   <a href="https://github.com/tifannypurple">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=C792EA&center=true&vCenter=true&width=600&lines=Olá%2C+eu+sou+o+William+👋;Fullstack+com+Lua%2C+Node+e+JavaScript;Sempre+aprendendo+algo+novo+📚;Bora+criar+algo+juntos%3F+🤝" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá+👋+eu+sou+o+William;Fullstack+com+Lua+e+JavaScript;Node+•+Docker+•+Linux+•+Cloud;Sempre+aprendendo+algo+novo+📚&center=true&width=600&size=24&color=C792EA&font=Fira+Code" alt="Apresentação"/>
   </a>
-
-  <br/>
-
-  <img src="https://komarev.com/ghpvc/?username=tifannypurple&color=blueviolet&style=flat-square&label=Visitas+no+perfil" alt="Visitas"/>
-</div>
+</h3>
 
 ---
 
@@ -20,8 +16,8 @@ local william = {
     nome       = "William Silva",
     idade      = 30,
     cargo      = "Desenvolvedor Fullstack (aprendiz)",
-    linguagens = { "Lua", "JavaScript", "TypeScript", "SQL" },
-    focoAtual  = "Node.js, APIs e Cloud",
+    linguagens = { "JavaScript", "Lua", "TypeScript", "PHP", "C#", "Shell" },
+    focoAtual  = "Node.js, servidores, Docker e Cloud",
     hobbies    = { "Programar", "Games", "Aprender coisas novas" },
 }
 
@@ -30,9 +26,9 @@ function william:status()
 end
 ```
 
-- 🔭 Atualmente estudando e construindo projetos com **Lua, Node.js e JavaScript**
+- 🔭 Construindo projetos com **JavaScript, Lua e Node.js**
+- 🐳 Mexendo com **Docker, servidores Linux e Pterodactyl**
 - 🌱 Aprendendo mais sobre **TypeScript, bancos de dados e Google Cloud**
-- 💬 Pode me chamar pra trocar ideia sobre **backend, scripts em Lua e web**
 - 📫 Melhor forma de falar comigo: **[Discord](https://discord.gg/qTVUAFCECE)**
 
 ---
@@ -42,13 +38,13 @@ end
 <div align="center">
 
 ### Linguagens
-<img src="https://skillicons.dev/icons?i=lua,js,ts,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,lua,ts,php,cs,bash,html,css&theme=dark" />
 
-### Backend & Banco de dados
-<img src="https://skillicons.dev/icons?i=nodejs,express,mysql&theme=dark" />
+### Backend, Banco de dados & Infra
+<img src="https://skillicons.dev/icons?i=nodejs,mysql,docker,nix,gcp&theme=dark" />
 
-### Cloud, Sistemas & Ferramentas
-<img src="https://skillicons.dev/icons?i=gcp,linux,windows,git,github,vscode&theme=dark" />
+### Sistemas & Ferramentas
+<img src="https://skillicons.dev/icons?i=linux,windows,git,github,vscode&theme=dark" />
 
 </div>
 
@@ -65,13 +61,13 @@ end
   <img src="https://streak-stats.demolab.com?user=tifannypurple&theme=tokyonight&hide_border=true" />
 </div>
 
+### 🐍 Atividade
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tifannypurple&theme=tokyo-night&hide_border=true&area=true" />
-</div>
-
-### 🏆 Troféus
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tifannypurple&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tifannypurple/tifannypurple/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tifannypurple/tifannypurple/output/snake.svg" />
+    <img alt="Cobrinha comendo minhas contribuições" src="https://raw.githubusercontent.com/tifannypurple/tifannypurple/output/snake-dark.svg" />
+  </picture>
 </div>
 
 ---
