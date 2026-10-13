@@ -1,11 +1,16 @@
-<!-- Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=200&section=header&text=William%20Silva&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Fullstack%20em%20evolução%20🚀&descAlignY=58&descSize=18"/>
-
-<h3 align="center">
+<div align="center">
   <a href="https://github.com/tifannypurple">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá+👋+eu+sou+o+William;Fullstack+com+Lua+e+JavaScript;Node+•+Docker+•+Linux+•+Cloud;Sempre+aprendendo+algo+novo+📚&center=true&width=600&size=24&color=C792EA&font=Fira+Code" alt="Apresentação"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=William+Silva;Dev+•+Lua+•+JavaScript;Criando+coisas+com+código+%2B+IA+🤖&center=true&width=650&height=60&size=38&color=C792EA&font=Fira+Code&weight=700" alt="William Silva"/>
   </a>
-</h3>
+
+  <p>
+    <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+    <img src="https://img.shields.io/badge/IA_no_dia_a_dia-8A2BE2?style=flat-square&logo=openai&logoColor=white"/>
+  </p>
+</div>
 
 ---
 
@@ -15,19 +20,21 @@
 local william = {
     nome       = "William Silva",
     idade      = 30,
-    cargo      = "Desenvolvedor Fullstack (aprendiz)",
+    cargo      = "Desenvolvedor",
     linguagens = { "JavaScript", "Lua", "TypeScript", "PHP", "C#", "Shell" },
     focoAtual  = "Node.js, servidores, Docker e Cloud",
+    parceira   = "IA 🤖",
     hobbies    = { "Programar", "Games", "Aprender coisas novas" },
 }
 
 function william:status()
-    return "Codando e evoluindo um commit por vez 🚀"
+    return "Codando + IA, evoluindo um commit por vez 🚀"
 end
 ```
 
 - 🔭 Construindo projetos com **JavaScript, Lua e Node.js**
 - 🐳 Mexendo com **Docker, servidores Linux e Pterodactyl**
+- 🤖 Uso **IA no dia a dia** pra programar mais rápido e aprender mais
 - 🌱 Aprendendo mais sobre **TypeScript, bancos de dados e Google Cloud**
 - 📫 Melhor forma de falar comigo: **[Discord](https://discord.gg/qTVUAFCECE)**
 
@@ -53,8 +60,8 @@ end
 ## 📊 Estatísticas no GitHub
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=tifannypurple&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tifannypurple&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=tifannypurple&show_icons=true&theme=tokyonight&hide_border=true&show=prs_merged,reviews,discussions_started&custom_title=Estatísticas%20do%20William"/>
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tifannypurple&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&custom_title=Linguagens%20mais%20usadas"/>
 </div>
 
 <div align="center">
@@ -86,6 +93,3 @@ end
 <div align="center">
   <i>"Todo especialista um dia já foi iniciante." ✨</i>
 </div>
-
-<!-- Rodapé -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E100FF,100:7F00FF&height=120&section=footer"/>
