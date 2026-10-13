@@ -60,12 +60,12 @@ end
 ## 📊 Estatísticas no GitHub
 
 <div align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=tifannypurple&show_icons=true&theme=tokyonight&hide_border=true&show=prs_merged,reviews,discussions_started&custom_title=Estatísticas%20do%20William"/>
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tifannypurple&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&custom_title=Linguagens%20mais%20usadas"/>
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=tifannypurple&show_icons=true&theme=tokyonight&hide_border=true&show=prs_merged,reviews,discussions_started&custom_title=Estatísticas%20do%20William&v=2"/>
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tifannypurple&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&custom_title=Linguagens%20mais%20usadas&v=2"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=tifannypurple&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=tifannypurple&theme=tokyonight&hide_border=true&v=2" />
 </div>
 
 ### 🐍 Atividade
